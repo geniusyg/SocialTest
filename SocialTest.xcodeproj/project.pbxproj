@@ -21,6 +21,7 @@
 		00A8D558188E0D0200CB8DB0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00A8D53A188E0D0100CB8DB0 /* UIKit.framework */; };
 		00A8D560188E0D0200CB8DB0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 00A8D55E188E0D0200CB8DB0 /* InfoPlist.strings */; };
 		00A8D562188E0D0200CB8DB0 /* SocialTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00A8D561188E0D0200CB8DB0 /* SocialTestTests.m */; };
+		00A8D56E188E0F1C00CB8DB0 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 00A8D56D188E0F1C00CB8DB0 /* Default.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		00A8D55D188E0D0200CB8DB0 /* SocialTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SocialTestTests-Info.plist"; sourceTree = "<group>"; };
 		00A8D55F188E0D0200CB8DB0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		00A8D561188E0D0200CB8DB0 /* SocialTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SocialTestTests.m; sourceTree = "<group>"; };
+		00A8D56D188E0F1C00CB8DB0 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				00A8D546188E0D0100CB8DB0 /* AppDelegate.m */,
 				00A8D548188E0D0100CB8DB0 /* Main.storyboard */,
 				00A8D54B188E0D0100CB8DB0 /* ViewController.h */,
+				00A8D56D188E0F1C00CB8DB0 /* Default.png */,
 				00A8D54C188E0D0100CB8DB0 /* ViewController.m */,
 				00A8D54E188E0D0100CB8DB0 /* Images.xcassets */,
 				00A8D53D188E0D0100CB8DB0 /* Supporting Files */,
@@ -231,6 +234,7 @@
 				00A8D54F188E0D0100CB8DB0 /* Images.xcassets in Resources */,
 				00A8D541188E0D0100CB8DB0 /* InfoPlist.strings in Resources */,
 				00A8D54A188E0D0100CB8DB0 /* Main.storyboard in Resources */,
+				00A8D56E188E0F1C00CB8DB0 /* Default.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
